@@ -1,6 +1,6 @@
 # Pilarica
 Examen Pilar
-https://github.com/PilarTermux/Pilarica
+git clone https://github.com/PilarTermux/Pilarica
 ls
 cd Pilarica
 ls
